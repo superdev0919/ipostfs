@@ -1,0 +1,5 @@
+@import '~antd/dist/antd.css';
+
+.cke_contents.cke_reset {
+  min-height: 385px!important;
+}
